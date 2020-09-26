@@ -15,4 +15,4 @@ def on_board?(num)
   end
 end
 
-if (position_taken?(board, index))
+if (position_taken?(board, index)) == false && 
