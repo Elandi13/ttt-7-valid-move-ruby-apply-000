@@ -1,4 +1,4 @@
-def valid_move?
+def valid_move?(board,)
 def position_taken?(board, index)
   if board[index] == " " ||  board[index] == "" || board[index] == nil 
     return false 
