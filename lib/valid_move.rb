@@ -8,4 +8,4 @@ def position_taken?(board, index)
 end
 
 def on_board?(num)
-  if on
+  if num.between
